@@ -26,5 +26,6 @@ curl -X POST https://distinguished-reverence-production-a4e9.up.railway.app/ask 
 - `AGENT_API_KEY` (Not used/required in simple railway deployment example)
 
 ## Screenshots
-- **Deployment Dashboard:** *Verified running on Railway cloud environment.*
-- **Service running & Healthy:** *Verified with curl health check responding with 200 OK.*
+- [Deployment dashboard](screenshots/dashboard.png)
+- [Service running](screenshots/running.png)
+- [Test results](screenshots/test.png)
